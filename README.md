@@ -14,4 +14,4 @@ All videos have a resolution of 320x240 pixels which is compatible with well-kno
 
 At this moment, complete dataset is not available yet because of the data privacy process. Please contact us to be able to reach the dataset. 
 
-<img src="doc/examples.JPG" width="100%">
+<img src="doc/examples.JPG" width="50%">
